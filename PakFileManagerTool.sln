@@ -1,25 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.002.0
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PakFileManagerTool", "PakFileManagerTool.csproj", "{896523CD-90D1-4600-AC49-1D41F3DC7B29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PakFileManagerLibrary", "PakFileManagerLibrary\PakFileManagerLibrary.csproj", "{044D862A-F583-4039-BDC8-BC5700AA6227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PakFileManagerTool", "PakFileManagerTool.csproj", "{08D83B92-1E06-4413-94DC-58A3B357DB75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{896523CD-90D1-4600-AC49-1D41F3DC7B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{896523CD-90D1-4600-AC49-1D41F3DC7B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{896523CD-90D1-4600-AC49-1D41F3DC7B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{896523CD-90D1-4600-AC49-1D41F3DC7B29}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7936C5C3-B197-4EA3-8BD5-95FF759A8C40}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044D862A-F583-4039-BDC8-BC5700AA6227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044D862A-F583-4039-BDC8-BC5700AA6227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044D862A-F583-4039-BDC8-BC5700AA6227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044D862A-F583-4039-BDC8-BC5700AA6227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D83B92-1E06-4413-94DC-58A3B357DB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D83B92-1E06-4413-94DC-58A3B357DB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D83B92-1E06-4413-94DC-58A3B357DB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D83B92-1E06-4413-94DC-58A3B357DB75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

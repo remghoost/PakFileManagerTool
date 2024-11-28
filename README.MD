@@ -27,6 +27,10 @@ PakFileManagerTool 0x123456 GAME_UE5_3 C:\gameName\Content\Paks\~mods\modName C:
 ```
 
 ## Building
-- `git clone`
+- `git clone --recurse-submodules https://github.com/remghoost/PakFileManagerTool`
 - `dotnet add package CUE4Parse`
+
+Then depending on if you want a build or a published, single exe:
 - `dotnet build`
+- or 
+- `dotnet publish -c Release -r win-x64 --self-contained /p:PublishSingleFile=true`

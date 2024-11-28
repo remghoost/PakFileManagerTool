@@ -1,0 +1,3 @@
+[submodule "PakFileManagerLibrary"]
+	path = PakFileManagerLibrary
+	url = https://github.com/remghoost/PakFileManagerLibrary

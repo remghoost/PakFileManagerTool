@@ -2,6 +2,9 @@
 
 Built on [CUE4Parse](https://github.com/FabianFG/CUE4Parse).
 
+### THIS IS A WORK IN PROGRESS<br />CURRENTLY DOES NOT SUPPORT MAPPINGS<br />
+I've gotta sleep though, so it lives like this till later.
+
 
 ## Usage
 

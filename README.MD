@@ -9,3 +9,8 @@ Built on CUE4Parse.
 ```
 Usage: PakFileManager <aesKey> <gameVersion> <inputDirectory> <outputDirectory>
 ```
+
+## Building
+- `git clone`
+- `dotnet add package CUE4Parse`
+- `dotnet build`

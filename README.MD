@@ -1,8 +1,7 @@
 ## Tool for extrating files from UE5 pak/ucas/utoc files.
 
-Built on CUE4Parse.
+Built on [CUE4Parse](https://github.com/FabianFG/CUE4Parse).
 
----
 
 ## Usage
 
